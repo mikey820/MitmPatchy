@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MitmPatchy</string>
+    <style name="Theme.MitmPatchy" parent="Theme.Material3.Dark.NoActionBar" />
+</resources>
