@@ -1,2 +1,2 @@
 rootProject.name = "MitmPatchy"
-include ':app'
+include(":app")
